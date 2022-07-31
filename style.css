@@ -676,8 +676,10 @@ a {
     margin: auto auto auto auto;
 }
 
+/* change here the p size*/
 p {
-    font-size: 11px;
+    font-size: 15px;
+    line-height: 1.6em;
 }
 
 .tight-width-whitespace {
@@ -688,6 +690,7 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    line-height: 1.6em;
 }
 
 .cta-hero {
@@ -706,7 +709,7 @@ p {
 
 h2 {
     font-size: 22px;
-    line-height: 1.4em;
+    line-height: 1.6em;
 }
 
 h3 {
@@ -714,6 +717,7 @@ h3 {
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+    line-height: 1.6em;
 }
 
 .med-width-whitespace {
@@ -728,6 +732,7 @@ h1 {
 
 h4 {
     color: #333333!important;
+    line-height: 1.6em;
 }
 
 .icons {
