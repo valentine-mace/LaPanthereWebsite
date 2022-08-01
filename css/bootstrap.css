@@ -267,9 +267,6 @@ th {
     tr {
         page-break-inside: avoid
     }
-    img {
-        max-width: 100% !important
-    }
     h2,
     h3,
     p {
@@ -1436,8 +1433,8 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
-    height: auto
+    max-width: 300px;
+    height: 300px;
 }
 
 .img-rounded {
