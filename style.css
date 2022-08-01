@@ -687,6 +687,11 @@ p {
     margin: auto auto auto auto;
 }
 
+.dark-background{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
