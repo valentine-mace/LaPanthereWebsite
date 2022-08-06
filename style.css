@@ -754,6 +754,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin: auto;
 }
 
 .portfolio-row {
@@ -1039,6 +1040,9 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .center{
+        text-align: center;
     }
 }
 
