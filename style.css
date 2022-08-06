@@ -362,6 +362,7 @@ a:hover {
     z-index: 2;
 }
 
+/* modification ici */
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -438,6 +439,8 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .mg-lg {
